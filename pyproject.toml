@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "opp"
+version = "0.1.0"
+description = ""
+authors = ["Developer <bobbebs96@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.15"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
